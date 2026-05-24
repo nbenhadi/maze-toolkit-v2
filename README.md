@@ -3,23 +3,23 @@
 Tool for generating and solving mazes using C++. This project is compiled to WebAssembly with Emscripten for web-based interaction.
 
 <div align="center">
-  <a href="https://nxrddinbnh.github.io/maze-toolkit-v2/public/index.html">
+  <a href="https://nbenhadi.github.io/maze-toolkit-v2/public/index.html">
     <img src="./public/assets/screens/maze-toolkit.webp">
   </a>
   
-  <a href="https://nxrddinbnh.github.io/maze-toolkit-v2/public/index.html">
+  <a href="https://nbenhadi.github.io/maze-toolkit-v2/public/index.html">
     <img src="./public/assets/screens/preview-1.webp">
   </a>
 
-  <a href="https://nxrddinbnh.github.io/maze-toolkit-v2/public/index.html">
+  <a href="https://nbenhadi.github.io/maze-toolkit-v2/public/index.html">
     <img src="./public/assets/screens/preview-2.gif">
   </a>
 
-  <a href="https://nxrddinbnh.github.io/maze-toolkit-v2/public/index.html">
+  <a href="https://nbenhadi.github.io/maze-toolkit-v2/public/index.html">
     <img src="./public/assets/screens/preview-3.gif">
   </a>
 
-  <a href="https://nxrddinbnh.github.io/maze-toolkit-v2/public/index.html">
+  <a href="https://nbenhadi.github.io/maze-toolkit-v2/public/index.html">
     <img src="./public/assets/screens/preview-4.gif">
   </a>
 </div>
